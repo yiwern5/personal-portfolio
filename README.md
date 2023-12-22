@@ -18,4 +18,4 @@ Welcome to my personal portfolio website! This repository contains the code and 
 </p>
 
 ## Getting Started
-Check out my personal porfolio website [here]! (https://tsui-yi-wern.vercel.app/)
+Check out my personal porfolio website [here](https://tsui-yi-wern.vercel.app/)!
